@@ -23,6 +23,8 @@
 * [matters-metadata by 端点星](http://206.189.252.32:3838/matters-metadata/)
 ### 真理部指令
 * [真理部指令](https://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?view=all)
+### 王五四
+* [王五四文集](http://wang54.blogspot.com/)
 ## 已停止更新的内容或服务的备份
 * [徐达内 媒体札记](http://www.ftchinese.com/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0)
 * 薛蛮子 蛮子文摘
@@ -32,3 +34,4 @@
 * [墙外楼](https://s3.amazonaws.com/letscorp-archive/index.html)
 * [我爱南京专属LiveHouse](http://51tech.org/music/lizhi/)
 * [狗耳朵日报](https://github.com/cdhigh/KindleEar)
+* [韩寒博客](http://www.yunzhan365.com/36345111.html)
