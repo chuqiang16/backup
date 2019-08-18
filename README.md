@@ -17,6 +17,8 @@
 ### 中文传媒精选
 * [官方获取链接](https://s3.amazonaws.com/aws-website-cndigest-3fm1b/zwcmjx_339.mobi)
 * [Readfree专辑](https://readfree.me/book/DIY146424/)
+### 饭否
+* [饭否备份工具](https://github.com/mcxiaoke/pyfanfou)
 ### 内涵段子
 * [皮皮虾](https://mp.pipix.com/)
 ### 好奇心日报
