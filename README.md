@@ -10,6 +10,7 @@
 * [自由微博 by Greatfire.org](https://freeweibo.com/)
 ### 豆瓣书影音条目
 * [Not-exist-in-douban by 端点星](https://terminus2049.github.io/Not-exist-in-douban/)
+* [豆坟](https://blog.doufen.org/)
 ### 喷嚏图卦
 * [图卦 by RSSHub](https://rsshub.app/dapenti/tugua)
 * [轻芒阅读-喷嚏图卦](http://qingmang.me/reading/)
