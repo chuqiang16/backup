@@ -45,6 +45,8 @@
 * [我爱南京专属LiveHouse](http://51tech.org/music/lizhi/)
 * [狗耳朵日报](https://github.com/cdhigh/KindleEar)
 * [韩寒博客](http://www.yunzhan365.com/36345111.html)
+* [雅虎中国](http://cnyahoo.co/)
+* [校内网](http://xiaonei.in/)
 
 ## 其它反审查组织
 * [中国数字时代](https://chinadigitaltimes.net/chinese/)
