@@ -35,6 +35,7 @@
 * [陈纯文集](https://github.com/ChenChunCamus/article)
 ### 即刻
 * [Jellow-内测中](https://h5.jellow.site/jellow-invite/#/form/5d4ad2c3b153310af9df70ee/survey?jk=d91d9e5f)
+* [快知](https://kzfeed.com/)
 ## 已停止更新的内容或服务的备份
 * [徐达内 媒体札记](http://www.ftchinese.com/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0)
 * 薛蛮子 蛮子文摘
