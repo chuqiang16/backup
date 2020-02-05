@@ -38,6 +38,9 @@
 * [快知](https://kzfeed.com/)
 ### 虎扑
 * [开放区](https://www.reddit.com/r/kfq/)
+### 新冠疫情记忆
+* [媒体报道备份](https://github.com/2019ncovmemory/nCovMemory)
+
 ## 已停止更新的内容或服务的备份
 * [徐达内 媒体札记](http://www.ftchinese.com/tag/%E5%AA%92%E4%BD%93%E6%9C%AD%E8%AE%B0)
 * 薛蛮子 蛮子文摘
@@ -50,6 +53,10 @@
 * [韩寒博客](http://www.yunzhan365.com/36345111.html)
 * [雅虎中国](http://cnyahoo.co/)
 * [校内网](http://xiaonei.in/)
+
+## 其它备份类产品
+* [InternetArchive](https://archive.org/)
+* [Archive.is](http://archive.is/)
 
 ## 其它反审查组织
 * [中国数字时代](https://chinadigitaltimes.net/chinese/)
