@@ -57,6 +57,7 @@
 ## 其它备份类产品
 * [InternetArchive](https://archive.org/)
 * [Archive.is](http://archive.is/)
+* [Web Design Museum](https://www.webdesignmuseum.org/)
 
 ## 其它反审查组织
 * [中国数字时代](https://chinadigitaltimes.net/chinese/)
