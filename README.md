@@ -49,7 +49,8 @@
 * 爱枣报
 * 1984BBS
 * [品葱旧版](https://pincongbackup.github.io/)
-* [墙外楼](https://s3.amazonaws.com/letscorp-archive/index.html)
+* [墙外楼](https://speechfree.github.io/letscorp/)
+* [天上阁](https://web.archive.org/web/20181127220504/https://www.letscorp.net/)
 * [我爱南京专属LiveHouse](http://51tech.org/music/lizhi/)
 * [狗耳朵日报](https://github.com/cdhigh/KindleEar)
 * [韩寒博客](http://www.yunzhan365.com/36345111.html)
