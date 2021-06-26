@@ -56,6 +56,7 @@
 * [韩寒博客](http://www.yunzhan365.com/36345111.html)
 * [雅虎中国](http://cnyahoo.co/)
 * [校内网](http://xiaonei.in/)
+* [苹果日报](https://github.com/appledailybackup/appledaily-archive-directory)
 
 ## 其它备份类产品
 * [InternetArchive](https://archive.org/)
