@@ -57,6 +57,7 @@
 * [雅虎中国](http://cnyahoo.co/)
 * [校内网](http://xiaonei.in/)
 * [苹果日报](https://github.com/appledailybackup/appledaily-archive-directory)
+* [回形针](https://zh.wikipedia.org/wiki/%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
 
 ## 其它备份类产品
 * [InternetArchive](https://archive.org/)
