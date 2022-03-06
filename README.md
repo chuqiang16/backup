@@ -65,6 +65,7 @@
 * [InternetArchive](https://archive.org/)
 * [Archive.is](http://archive.is/)
 * [Web Design Museum](https://www.webdesignmuseum.org/)
+* [Version Museum](https://www.versionmuseum.com/)
 
 ## 其它反审查组织
 * [中国数字时代](https://chinadigitaltimes.net/chinese/)
